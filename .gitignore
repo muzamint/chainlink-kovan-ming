@@ -2,3 +2,5 @@ log.jsonl
 tempkeys
 cookie
 .secret
+.api
+secret
