@@ -4,3 +4,4 @@ cookie
 .secret
 .api
 secret
+.env
